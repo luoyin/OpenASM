@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/openasm.dir/main.o  -o openasm -rdynamic 
